@@ -28,4 +28,19 @@ public class BowlingGameTest {
     public void lisaTestFive() {
 
     }
+
+    @Test
+    public void lisaTestHeigt() {
+        
+    }
+
+    @Test
+    public void lisaTestNine() {
+        
+    }
+
+    @Test
+    public void lisaTestTen() {
+        
+    }
 }
